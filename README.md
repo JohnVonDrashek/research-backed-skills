@@ -12,17 +12,17 @@ Because most skills are just people asking AI to write skills, which is pointles
 |-------|--------------|
 | [readme](skills/readme/SKILL.md) | Writes, revises, or trims a README using four studies of GitHub READMEs |
 
-## Evidence tags
+## Evidence Tags
 
-Each rule carries a tag so you can see how much weight it holds:
+Tags give you insight into how and why a rule became a rule and to give disclosures about the rule:
 
-- `exp`: a controlled experiment tested it. No rule has one yet.
-- `corr`: a peer-reviewed study linked it to a better outcome, like more GitHub stars. You can't tell from the study which came first.
-- `count`: a study counted how often READMEs do it. It didn't measure whether that helps.
-- `judgment`: no study backs it. The rule gives its reason so you can disagree.
-- `preprint`: sits next to another tag when the authors posted the study without peer review.
+- `exp`: rule was tested in a controlled experiment
+- `corr`: how much a rule correlated with a better outcome
+- `count`: how often READMEs do it
+- `judgment`: indicates what judgment calls were made to make the skill functional
+- `preprint`: indicates the authors posted the study without peer review
 
-Each skill folder has a `references/sources.md` with the sample, method, numbers, and limits of each study it cites. Start with [the readme skill's sources](skills/readme/references/sources.md).
+Each skill folder has a `references/sources.md` if you want to see how studies contributed to the making of the skill.
 
 ## Install
 
