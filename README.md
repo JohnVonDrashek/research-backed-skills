@@ -1,6 +1,6 @@
 # research-backed-skills
 
-Agent skills where each rule cites the study behind it or says no study backs it. If you want skills built off taste instead, use [taste-skills](https://github.com/JohnVonDrashek/taste-skills).
+This repo contains agent skills with actual studies to back them up. If you want skills built on my personal tastes, please see [taste-skills](https://github.com/JohnVonDrashek/taste-skills).
 
 ## Why
 
